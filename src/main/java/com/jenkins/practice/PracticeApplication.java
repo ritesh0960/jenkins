@@ -26,4 +26,8 @@ public class PracticeApplication {
 
 	}
 
+	public static void sample(){
+		System.out.println("hello system");
+	}
+
 }
